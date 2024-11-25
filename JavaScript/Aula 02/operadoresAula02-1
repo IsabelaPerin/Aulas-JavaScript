@@ -1,0 +1,9 @@
+let dinheiro = 200;
+let folga = true;
+let fds = dinheiro >= 500 || folga ==true
+
+console.log(`Iremos a praia esse fds ${fds}`);
+
+// &&  e (and)
+// || ou (or)
+// ${! variavel} negação (inverte o valor)
